@@ -1,0 +1,23 @@
+.folderIcon, .fileIcon {
+    margin: 5px;
+    cursor: pointer;
+}
+
+.folderName, .fileName {
+    cursor: pointer;
+}
+
+.removeFolderIcon, .removeFileIcon {
+    float: right;
+    top: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.downloadFileIcon, .shareFileIcon {
+    float: right;
+    top: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
